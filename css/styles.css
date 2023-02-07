@@ -1,0 +1,129 @@
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 100;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #5E4587;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.75rem;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.25rem;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.15rem;
+}
+
+li {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.15rem;
+}
+
+hr {
+  background-color: #F6F6F0; 
+  color: #5E4587;
+  width: 50%;
+  margin: auto;
+  height: 2px;
+}
+
+#header {
+  background-color: #5E4587;
+  color: #F6F6F0;
+}
+
+#header_text {
+  padding: 38% 7%;
+  color: #F6F6F0;
+}
+
+#header_icons {
+  padding: 5% 3% 0% 0%;
+}
+
+#summary_row {
+  background-color: #F6F6F0; 
+}
+
+#summary {
+  padding: 20% 15%;
+}
+
+#experience_header {
+  background-color: #F3EFEA; 
+  padding: 4% 7% 0% 7%;
+}
+
+#experience_row {
+  background-color: #F3EFEA; 
+  padding: 4% 7% 2% 7%;
+}
+
+#experience_logo {
+  padding: 10% 0% 5% 0%;
+}
+
+#experience { 
+  padding: 5% 5%;
+  background-color: #5E4587;
+  color: #F6F6F0;
+  line-height: 175%;
+  border-radius: 4px;
+  font-weight: 100;
+}
+
+/* #education {
+  padding: 5% 5%;
+  background-color: #5E4587;
+  color: #F6F6F0;
+  line-height: 175%;
+  border-radius: 4px;
+  font-weight: 100;
+} */
+
+#skills_header {
+  background-color: #494353; 
+  color: #F6F6F0; 
+  padding: 4% 7%;
+}
+
+#skills_row {
+  background-color: #494353;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.25rem;
+  color: #F6F6F0; 
+  padding: 4% 7% 2% 7%;
+}
+
+.link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.15rem;
+  color: #F6F6F0;
+}
+
+.link-hover {
+  color: #CEC4B9;
+}
+
+.col mini-box {
+  background-color: #F6F6F0;
+}
+
+footer {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 100;
+  font-size: 1rem;
+  background-color: #5E4587;
+  color: #F6F6F0;
+  text-align: center;
+  padding: 3%;
+}
+  
